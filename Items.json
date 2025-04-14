@@ -1,0 +1,460 @@
+[{
+  "_id": 7290000260839,
+  "name": "פריגת תפוזים",
+  "price": "8.50",
+  "newPrice": 5,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290000260839.png",
+  "supplier": "יפאורה שותפות מוגבלת לשיווק",
+  "editable": "yes",
+  "discount": "down"
+},{
+  "_id": 7290106650930,
+  "name": "קפה טורקי",
+  "price": "7.90",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290106650930.png",
+  "supplier": "שטראוס גרופ בע\"מ",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290010237623,
+  "name": "נשר מאלט",
+  "price": "7.90",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290010237623.png",
+  "supplier": "טמפו שיווק (1981) בע\"מ",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000284316,
+  "name": "קוקה קולה",
+  "price": "6.90",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290000284316.png",
+  "supplier": "קוקה קולה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290106669857,
+  "name": "קפסולת אספרסו וניל עלית",
+  "price": "18.90",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290106669857.png",
+  "supplier": "שטראוס גרופ בע\"מ",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000066318,
+  "name": "במבה אסם",
+  "price": "6.60",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290000066318.png",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000688381,
+  "name": "שישיה מי עדן",
+  "price": "16.90",
+  "newPrice": 0,
+  "image": "https://prtouchitemsimages.s3.eu-central-1.amazonaws.com/items/7290000688381.png",
+  "supplier": "יפאורה שותפות מוגבלת לשיווק",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290001594230,
+  "name": "סודה חצי ליטר",
+  "price": "4.30",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קבוצת אסם סחר",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000060781,
+  "name": "פסטה מסולסלים",
+  "price": "6.90",
+  "newPrice": 1,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": "up"
+},{
+  "_id": 7290006983176,
+  "name": "לחמית חיטה מלאה",
+  "price": "9.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290107875158,
+  "name": "מארז 4 יחידות במבה",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290010934027,
+  "name": "עוגיות אדמוני פריכות",
+  "price": "7.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אדמוני",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290008749343,
+  "name": "בפלות בטעם ווניל",
+  "price": "5.20",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000174037,
+  "name": "בפלות בטעם לימון",
+  "price": "17.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290002132011,
+  "name": "עוגיות מזרחיות שומשום",
+  "price": "15.90",
+  "newPrice": 5,
+  "image": "",
+  "supplier": "עבאדי",
+  "editable": "yes",
+  "discount": "down"
+},{
+  "_id": 8076809571319,
+  "name": "פסטה פנה ריגאטה",
+  "price": "15.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "ברילה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290011018832,
+  "name": "שישיית פחיות קוקה קולה",
+  "price": "19.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קוקה קולה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290011018917,
+  "name": "שישיית פחיות קולה זירו",
+  "price": "19.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קוקה קולה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7622300489434,
+  "name": "אוראו בציפוי שוקולד",
+  "price": "15.50",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אוראו",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000174099,
+  "name": "בפלות בטעם שוקולד",
+  "price": "15.00",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 8076809513654,
+  "name": "רוטב בסיס להכנת בולונז",
+  "price": "6.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "ברילה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290002057369,
+  "name": "מלפפונים במלח",
+  "price": "6.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קבוצת יבנה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290002057123,
+  "name": "זיתים ירוקים ללא גלעין",
+  "price": "6.50",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קבוצת יבנה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290001594865,
+  "name": "בירה קרלסברג שישייה",
+  "price": "39.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קרלסברג",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 5411188116592,
+  "name": "משקה קוקוס ואורז",
+  "price": "9.80",
+  "newPrice": 5,
+  "image": "",
+  "supplier": "אלפרו",
+  "editable": "yes",
+  "discount": "down"
+},{
+  "_id": 5411188110835,
+  "name": "משקה שקדים",
+  "price": "2.90",
+  "newPrice": 4,
+  "image": "",
+  "supplier": "אלפרו",
+  "editable": "yes",
+  "discount": "up"
+},{
+  "_id": 7290100240632,
+  "name": "פתית קרקר פריך",
+  "price": "12.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "פתית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7622210829085,
+  "name": "עוגיות אוראו דקות",
+  "price": "15.50",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אוראו",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290001594568,
+  "name": "קרלסברג פחית בירה",
+  "price": "8.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "קרלסברג",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000074184,
+  "name": "פתיבר קלאסי",
+  "price": "17.50",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290106656512,
+  "name": "ופלים מצופים עם קרם שקדים",
+  "price": "14.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290106662230,
+  "name": "ופלים מצופים בטעם שוקולד",
+  "price": "14.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7622210829108,
+  "name": "עוגיות אוראו ממולאות שוקולד",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אוראו",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290008753876,
+  "name": "ופלים עוגת גבינה ופירורים",
+  "price": "14.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7622300489427,
+  "name": "אוראו בציפוי שוקולד לבן",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אוראו",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7622010001858,
+  "name": "עוגיות ממולאות קרם וניל",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אוראו",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290105360878,
+  "name": "מארז 4 יחידות תפוציפס",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "עלית",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000071008,
+  "name": "בייגלה שטוחים",
+  "price": "9.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000075204,
+  "name": "לחמית חיטה מלאה",
+  "price": "8.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000066172,
+  "name": "ביסלי בטעם פיצה",
+  "price": "3.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000066165,
+  "name": "ביסלי בטעם בקביקיו",
+  "price": "3.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000066158,
+  "name": "ביסלי בטעם בצל",
+  "price": "3.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290100240656,
+  "name": "פתית קרקר פריך משיפון",
+  "price": "11.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290003805587,
+  "name": "קרקר פריך מחיטה מלאה",
+  "price": "11.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290003805501,
+  "name": "קרקר פריך בסגנון שוודי",
+  "price": "11.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290107871990,
+  "name": "פסטה צינורות",
+  "price": "10.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 7290000060842,
+  "name": "פסטה צדפים גדולים",
+  "price": "10.90",
+  "newPrice": 5,
+  "image": "",
+  "supplier": "אסם",
+  "editable": "yes",
+  "discount": "down"
+},{
+  "_id": 7290010934003,
+  "name": "עוגיות אדמוני מלוחות",
+  "price": "7.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "אדמוני",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 5411188115472,
+  "name": "משקה סויה",
+  "price": "10.90",
+  "newPrice": 10,
+  "image": "",
+  "supplier": "אלפרו",
+  "editable": "yes",
+  "discount": "up"
+},{
+  "_id": 8076809571333,
+  "name": "ספגטי מספר 5",
+  "price": "15.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "ברילה",
+  "editable": "yes",
+  "discount": ""
+},{
+  "_id": 8076809513692,
+  "name": "רוטב עגבניות בתוספת ירקות",
+  "price": "6.90",
+  "newPrice": 0,
+  "image": "",
+  "supplier": "ברילה",
+  "editable": "yes",
+  "discount": ""
+}]
